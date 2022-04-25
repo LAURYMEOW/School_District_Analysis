@@ -12,7 +12,7 @@ When we change the data for the math and reading scores of Thomas High School's 
 
 ### Table 1. Student data without the ninth graders scores of Thomas High School
 
-![Student data without the ninth graders scores of Thomas High School](https://github.com/LAURYMEOW/Kickstarter-analysis/blob/main/Theater%20Outcomes%20by%20Launch%20Date.png)
+![Student data without the ninth graders scores of Thomas High School](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/student%20data%20without%20the%20ninth%20graders%20scores%20of%20Thomas%20High%20School.png)
 
 This way we are sure to be able to work with the right information.
 Let's remember that one of the options for handling information with Missing Data is Do nothing, which is precisely what we were asked to do in this new analysis: fill in the scores keeping the rest intact.
