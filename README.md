@@ -24,7 +24,10 @@ How is the district summary affected?
 In the district summary comparison table below, it can be seen that the totals did not change as expected. While the averages and percentages do show a slight decimal difference. This is because we have omitted information with the missing data applied.
 However, the impact is not significant.
 
-### Table 2. district summary comparison
+### Table 2. District Summary Comparison
+![District Summary Comparison](https://github.com/LAURYMEOW/https://github.com/LAURYMEOW/School_District_Analysis/blob/main/District%20Summary%20Comparison.png)
+
+
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
