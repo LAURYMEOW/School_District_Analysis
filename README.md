@@ -38,13 +38,13 @@ Thus the Thomas High School's performance relative to the other schools did not 
 ![School Summary Comparison](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/School%20Summary%20Comparison.png)
 
 ### Chart 1. Overall Passing School Comparison Chart
-![Overall Passing school comparison Chart](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Overall%20Passing%20School%20Comparison20%Chart.png)
+![Overall Passing school comparison Chart](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Overall%20Passing%20school%20comparison%20chart.png)
 
 
 The above information reveals that there is not much impact of omitting the 9th grade grades, which means that it is very likely that there is not some kind of dishonesty on this side.
 
-### Chart. Overall Passing Chart
-
+### Chart 2. Overall Passing Chart
+![Overall Passing Chart]
 How does replacing the ninth-grade scores affect the following:
 
 * Math and reading scores by grade
