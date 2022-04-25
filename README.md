@@ -36,7 +36,7 @@ Thus the Thomas High School's performance relative to the other schools did not 
 
 The above information reveals that there is not much impact of omitting the 9th grade grades, which means that it is very likely that there is not some kind of dishonesty on this side.
 
-###Chart. Overall Passing Chart
+### Chart. Overall Passing Chart
 
 How does replacing the ninth-grade scores affect the following:
 
@@ -52,7 +52,7 @@ It is due to that according to Missing Data: Bootcamp TDM-VIRT-DATA-PT-03-2022-U
 * Scores by school spending
 Because changes in the average Math and reading scores were minimal after omission of data for the Thomas High School ninth-grade scores, the Score by School spending did not change.
 
-###Table 6. Scores by school spending
+### Table 6. Scores by school spending
 
 
 * Scores by school size and Type
