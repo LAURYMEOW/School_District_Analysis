@@ -25,7 +25,7 @@ In the district summary comparison table below, it can be seen that the totals d
 However, the impact is not significant.
 
 ### Table 2. District Summary Comparison
-![District Summary Comparison](https://github.com/LAURYMEOW/https://github.com/LAURYMEOW/School_District_Analysis/blob/main/District%20Summary%20Comparison.png)
+![District Summary Comparison](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/District%20Summary%20Comparison.png)
 
 
 
