@@ -53,10 +53,10 @@ Regarding the math and reading scores by grade we can see at the comparative tab
 
 ### Table 4. Math Scores by Grade
 
-![Math Scores by Grade]
+![Math Scores by Grade](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Math%20Scores%20by%20grade%20comparison.png)
 
 ### Table 5. Reading Scores by Grade
-![Reading Scores by Grade]
+![Reading Scores by Grade](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Reading%20Scores%20by%20grade%20comparison.png)
 
 The output obtained is a missing data for both scores but this behavior was expected because we have omitted this information.
 It is due to that according to Missing Data: Bootcamp TDM-VIRT-DATA-PT-03-2022-U-B-TTH if we multiply or divide with a row that has a NaN, the answer will be NaN.
@@ -65,7 +65,7 @@ It is due to that according to Missing Data: Bootcamp TDM-VIRT-DATA-PT-03-2022-U
 Because changes in the average Math and reading scores were minimal after omission of data for the Thomas High School ninth-grade scores, the Score by School spending did not change.
 
 ### Table 6. Scores by school spending
-
+![Scores by school spending]
 
 * Scores by school size and Type
 
