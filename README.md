@@ -64,16 +64,16 @@ It is due to that according to Missing Data: Bootcamp TDM-VIRT-DATA-PT-03-2022-U
 * Scores by school spending
 Because changes in the average Math and reading scores were minimal after omission of data for the Thomas High School ninth-grade scores, the Score by School spending did not change.
 
-### Table 6. Scores by school spending
+### Table 6. Scores by School Spending
 ![Scores by school spending](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Scores%20by%20School%20Spending.png)
 
 * Scores by school size and Type
 
 In general, the results for the Scores by School Size and Type are not affected either for the same reason as before, that the changes due to missing data were really very low.
 
-### Table 7. Scores by school size
+### Table 7. Scores by School Size
 ![Scores by school size](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Scores%20by%20School%20Size.png)
-### Table 8. Scores by school type
+### Table 8. Scores by School Type
 ![Scores by school type](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Scores%20by%20School%20Type.png)
 
 With the above, it is concluded that an evaluation of the information through the method of handle missing data with the option do nothing allows us to see if there really is inconsistency in the information of the Thomas High School ninth graders.
