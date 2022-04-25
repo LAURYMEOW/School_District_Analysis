@@ -44,14 +44,19 @@ Thus the Thomas High School's performance relative to the other schools did not 
 The above information reveals that there is not much impact of omitting the 9th grade grades, which means that it is very likely that there is not some kind of dishonesty on this side.
 
 ### Chart 2. Overall Passing Chart
-![Overall Passing Chart]
+![Overall Passing Chart](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Overall%20Passing%20Chart%20.png)
 How does replacing the ninth-grade scores affect the following:
 
 * Math and reading scores by grade
 
 Regarding the math and reading scores by grade we can see at the comparative tables that the only data that changes is the ninth grade for both scores and only for Thomas High School.
 
-### Table 4 and 5. Math and reading scores by grade
+### Table 4. Math Scores by Grade
+
+![Math Scores by Grade]
+
+### Table 5. Reading Scores by Grade
+![Reading Scores by Grade]
 
 The output obtained is a missing data for both scores but this behavior was expected because we have omitted this information.
 It is due to that according to Missing Data: Bootcamp TDM-VIRT-DATA-PT-03-2022-U-B-TTH if we multiply or divide with a row that has a NaN, the answer will be NaN.
