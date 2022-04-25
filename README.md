@@ -10,7 +10,9 @@ To maintain state testing standards, the decision was made to do again the analy
 
 When we change the data for the math and reading scores of Thomas High School's ninth graders without changing or deleting anything else, we can see a table like the following:
 
-### Table 1. student data without the ninth graders scores of Thomas High School
+### Table 1. Student data without the ninth graders scores of Thomas High School
+
+![Student data without the ninth graders scores of Thomas High School](https://github.com/LAURYMEOW/Kickstarter-analysis/blob/main/Theater%20Outcomes%20by%20Launch%20Date.png)
 
 This way we are sure to be able to work with the right information.
 Let's remember that one of the options for handling information with Missing Data is Do nothing, which is precisely what we were asked to do in this new analysis: fill in the scores keeping the rest intact.
