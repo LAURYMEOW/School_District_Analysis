@@ -27,17 +27,19 @@ However, the impact is not significant.
 ### Table 2. District Summary Comparison
 ![District Summary Comparison](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/District%20Summary%20Comparison.png)
 
-
-
 How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+How does replacing the ninth graders math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 On the other hand, when we do the analysis by school (see school summary comparison table) it can be seen that only the information related to the scores of Thomas High School has changed, the other schools remain the same.
 The changes observed in the new averages and percentages are very small (the overall average with missing data is 90.630324 compared to 90.948012 in the previous analysis, that is -0.317688), so Thomas High School continues to hold second place in the top five performing schools based on the overall passing rate.
 Thus the Thomas High School's performance relative to the other schools did not change.
 
 ### Table 3. School Summary Comparison
-###Chart. Overall Passing school comparison Chart
+![School Summary Comparison](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/School%20Summary%20Comparison.png)
+
+### Chart 1. Overall Passing School Comparison Chart
+![Overall Passing school comparison Chart](https://github.com/LAURYMEOW/School_District_Analysis/blob/main/Overall%20Passing%20School%20Comparison20%Chart.png)
+
 
 The above information reveals that there is not much impact of omitting the 9th grade grades, which means that it is very likely that there is not some kind of dishonesty on this side.
 
